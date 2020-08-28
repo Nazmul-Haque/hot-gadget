@@ -1,0 +1,46 @@
+.container{
+    padding-bottom: 25px;
+}
+.background{
+    background:url(images/bg-1.png);
+    background-repeat: no-repeat;
+    
+}
+p{
+    text-align: justify;
+}
+.carousel-item{
+    padding-left: 50px;
+}
+.ph-1, .ph-2, .ph-3{
+    text-align: center;
+}
+.text{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.ph-1, .ph-2, .ph-3{
+    border: 1px solid black;
+    box-shadow: 10px;
+    padding: 3px 5px;
+}
+.c-b{
+    text-align: center;
+    margin-top: none
+}
+.card-footer{
+    margin-top: none;
+    background-color: white;
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+.image{
+    width: 100%;
+}
